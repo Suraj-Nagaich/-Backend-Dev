@@ -1,0 +1,17 @@
+ls – Lists files and directories in the current directory
+
+pwd – Displays the present working directory path
+
+cd – Changes the current directory
+
+mkdir – Creates a new directory
+
+rmdir – Deletes an empty directory
+
+touch – Creates an empty file
+
+cp – Copies files or directories
+
+mv – Moves or renames files
+
+rm – Deletes files or directories
