@@ -86,3 +86,51 @@ By the end of the session, learners were able to:
 * Understand the role of version control systems
 * Work with Git and GitHub
 * Create branches and manage commits effectively
+
+
+## 📅 Session Date
+
+**07 January 2026**
+
+## 📘 Session Overview
+
+In today’s session, we covered **JavaScript fundamental concepts** that are very important for learning **Backend Development**. These concepts form the base for writing clean, efficient, and scalable backend code.
+
+Learners were introduced to core JavaScript features and encouraged to revise and practice them regularly.
+
+
+## 🧠 Topics Covered
+
+### 1. JavaScript Objects
+
+* Creating objects
+* Accessing object properties
+* Understanding key–value pairs
+
+---
+
+### 2. Object Destructuring
+
+* Extracting values from objects
+* Writing clean and readable code using destructuring
+
+---
+
+### 3. Spread Operator (`...`)
+
+* Copying objects and arrays
+* Merging multiple objects or arrays
+
+---
+
+### 4. Rest Operator (`...`)
+
+* Handling multiple function arguments
+* Using rest parameters in functions
+
+---
+
+### 5. Array Methods
+
+* Common array methods used in backend development
+* Working with data using array operations
