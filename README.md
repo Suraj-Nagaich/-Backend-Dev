@@ -134,3 +134,56 @@ Learners were introduced to core JavaScript features and encouraged to revise an
 
 * Common array methods used in backend development
 * Working with data using array operations
+
+
+## 📅 Session Date
+
+**08 January 2026**
+
+---
+
+## 📘 Session Overview
+
+In today’s session, we covered **Asynchronous Programming in JavaScript**, which is a very important concept for backend development. We understood how JavaScript handles asynchronous operations and how to write clean, non-blocking code.
+
+---
+
+## 🧠 Topics Covered
+
+### 1. Asynchronous Programming in JavaScript
+
+* Understanding synchronous vs asynchronous execution
+* Why async programming is required in backend development
+
+---
+
+### 2. Promises
+
+* What are promises
+* Promise states: pending, fulfilled, rejected
+* Handling success and errors using `.then()` and `.catch()`
+
+---
+
+### 3. Event Loop
+
+* How JavaScript executes code
+* Call stack, callback queue, and event loop
+* Role of event loop in async operations
+
+---
+
+### 4. Async / Await
+
+* Writing asynchronous code in a synchronous manner
+* Using `async` functions
+* Using `await` for handling promises
+
+---
+
+### 5. Try and Catch
+
+* Error handling in asynchronous code
+* Using `try` and `catch` blocks with async/await
+
+
