@@ -1,3 +1,4 @@
+
 # Backend Development Training – Session 
 
 ## 📅 Session Date
@@ -187,3 +188,52 @@ In today’s session, we covered **Asynchronous Programming in JavaScript**, whi
 * Using `try` and `catch` blocks with async/await
 
 
+## 📅 Session Date
+
+**13 January 2026**
+
+---
+
+## 📘 Session Overview
+
+In today’s session, we were introduced to **Node.js**, which is a core technology for backend development using JavaScript. The session focused on understanding what Node.js is, how to set it up, and how to initialize a Node.js project using npm.
+
+---
+
+## 🧠 Topics Covered
+
+### 1. Node.js Introduction
+
+* What is Node.js
+* Why Node.js is used for backend development
+* Features of Node.js (runtime environment, non-blocking I/O)
+
+---
+
+### 2. Node.js Installation
+
+* Installing Node.js on the system
+* Verifying installation using Node and npm commands
+
+---
+
+### 3. npm (Node Package Manager)
+
+* Introduction to npm
+* Role of npm in managing packages and dependencies
+
+---
+
+### 4. `npm init`
+
+* Creating a new Node.js project
+* Manually configuring project details
+
+---
+
+### 5. `npm init -y`
+
+* Quickly initializing a Node.js project
+* Automatically generating `package.json` with default values
+
+---
