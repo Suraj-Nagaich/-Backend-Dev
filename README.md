@@ -6,7 +6,7 @@
 
 ## 👨‍🏫 Trainer
 
-# Mr.Yash Singh
+#  Mr.Yash Singh
 
 Backend Development Trainer
 
